@@ -9,6 +9,8 @@
 - list/array => tipe data yang dapat menampung banyak data sekaligus
 """
 
+# sebenarnya masih banyak lagi tipe data di Python
+
 #** <=================================================================> **#
 #** <=================================================================> **#
 
