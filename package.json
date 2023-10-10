@@ -1,0 +1,11 @@
+{
+  "name": "python-study-notes",
+  "version": "1.0.0",
+  "description": "Belajar Python",
+  "main": "index.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Atyla Azfa Al Harits",
+  "license": "ISC"
+}
