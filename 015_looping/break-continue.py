@@ -1,5 +1,9 @@
 # looping baru akan berhenti jika kondisi sudah terpenuhi
-# 
+# namun terkadang kita ingin menghentikan looping sebelum kondisinya terpenuhi 
+# kita bisa menggunakan break & continue
+
+# kata kunci break digunakan untuk menghentikan looping saat ini
+# kata kunci continue digunakan untuk menghentikan looping saat ini dan melanjutkan ke looping berikutnya 
 
 #** <=================================================================> **#
 #** <=================================================================> **#
