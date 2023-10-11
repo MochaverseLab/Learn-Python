@@ -1,5 +1,5 @@
 # kita juga bisa memanipulasi data list
-# seperti menambah, menghapus, mengedit, dan lain-lain
+# seperti menambah, menghapus, mengubah, dan lain-lain
 
 #** <=================================================================> **#
 #** <=================================================================> **#
@@ -20,6 +20,10 @@ print(poped_element)
 print(cat_family)
 
 del cat_family[2] # menghapus nilai berdasarkan index
+print(cat_family)
+
+# mengubah nilai
+cat_family[0] = "leopard"
 print(cat_family)
 
 
